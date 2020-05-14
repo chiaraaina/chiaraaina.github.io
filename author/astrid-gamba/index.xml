@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astrid Gamba | Chiara Aina</title>
-    <link>https://chiaraaina.github.io/author/astrid-gamba/</link>
-      <atom:link href="https://chiaraaina.github.io/author/astrid-gamba/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/astrid-gamba/</link>
+      <atom:link href="/author/astrid-gamba/index.xml" rel="self" type="application/rss+xml" />
     <description>Astrid Gamba</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chiaraaina.github.io/images/icon_hu7cfc2857fa252eed21021c4e6afd66ab_22259_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7cfc2857fa252eed21021c4e6afd66ab_22259_512x512_fill_lanczos_center_2.png</url>
       <title>Astrid Gamba</title>
-      <link>https://chiaraaina.github.io/author/astrid-gamba/</link>
+      <link>/author/astrid-gamba/</link>
     </image>
     
     <item>
       <title>Frustration and anger in the Ultimatum game: An experiment</title>
-      <link>https://chiaraaina.github.io/publication/abg/</link>
+      <link>/publication/abg/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/publication/abg/</guid>
-      <description></description>
+      <guid>/publication/abg/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;abg.jpg&#34; width=&#34;800&#34;  /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
