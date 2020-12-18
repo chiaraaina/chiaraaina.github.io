@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Chiara Aina</title>
-    <link>https://chiaraaina.github.io/publication/</link>
-      <atom:link href="https://chiaraaina.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <title>available upon request | Chiara Aina</title>
+    <link>https://chiaraaina.github.io/author/available-upon-request/</link>
+      <atom:link href="https://chiaraaina.github.io/author/available-upon-request/index.xml" rel="self" type="application/rss+xml" />
+    <description>available upon request</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chiaraaina.github.io/images/icon_hu7cfc2857fa252eed21021c4e6afd66ab_22259_512x512_fill_lanczos_center_2.png</url>
-      <title>Research</title>
-      <link>https://chiaraaina.github.io/publication/</link>
+      <title>available upon request</title>
+      <link>https://chiaraaina.github.io/author/available-upon-request/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chiaraaina.github.io/publication/tailored/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Frustration and anger in the Ultimatum game: An experiment</title>
-      <link>https://chiaraaina.github.io/publication/abg/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/publication/abg/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;abg.jpg&#34; width=&#34;800&#34;  /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
