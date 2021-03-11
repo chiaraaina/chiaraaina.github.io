@@ -81,7 +81,8 @@
       <link>https://chiaraaina.github.io/publication/tailored/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chiaraaina.github.io/publication/tailored/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;leo2.jpg&#34; width=&#34;800&#34;  /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -261,7 +262,7 @@ $$ \Pr(\theta  \mid x_{obs}) \propto \Pr (x_{obs} \mid \theta)\Pr(\theta). $$&lt
 &lt;p style=&#34;;color: #C5EC5A&#34;&gt;(e) What are the prior probabilities of Scenario 1 and 2?&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt; &lt;i&gt; solution  &lt;/i&gt; &lt;/summary&gt;
-&lt;p&gt;$\Pr(Scenario 1) = 2/3, \quad \Pr(Scenario 2)= 1/3. $&lt;/p&gt;
+&lt;p&gt;$ \Pr(Scenario 1) = 2/3, \quad \Pr(Scenario 2)= 1/3. $&lt;/p&gt;
 &lt;/details&gt;
 &lt;br&gt;
 &lt;h4 id=&#34;normalization-factor&#34;&gt;Normalization Factor&lt;/h4&gt;
@@ -270,8 +271,8 @@ $$ \Pr(\theta  \mid x_{obs}) \propto \Pr (x_{obs} \mid \theta)\Pr(\theta). $$&lt
 &lt;p style=&#34;;color: #C5EC5A&#34;&gt;(f) Calculate this product for Scenario 1 and 2?&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt; &lt;i&gt; solution  &lt;/i&gt; &lt;/summary&gt;
-&lt;p&gt;$ \Pr(obs \mid Scenario 1) \times \Pr(Scenario1 ) &amp;amp;= 2/3 \times 1/2 = 1/3$&lt;/p&gt;
-&lt;p&gt;$ \Pr(obs \mid Scenario 2) \times \Pr(Scenario2 ) &amp;amp; = 1/3 \times 1/16 = 1/48$&lt;/p&gt;
+&lt;p&gt;$ \Pr(obs \mid Scenario 1) \times \Pr(Scenario1 ) = 2/3 \times 1/2 = 1/3 $&lt;/p&gt;
+&lt;p&gt;$ \Pr(obs \mid Scenario 2) \times \Pr(Scenario2 ) = 1/3 \times 1/16 = 1/48 $&lt;/p&gt;
 &lt;/details&gt;
 &lt;br&gt;
 &lt;p style=&#34;;color: #C5EC5A&#34;&gt;(g) Sum the two products. Is it equal to one?&lt;/p&gt;
@@ -315,7 +316,7 @@ Assume that the quality is evaluated between 0 and 1.&lt;/p&gt;
 &lt;p style=&#34;;color: #C5EC5A&#34;&gt;(b) What if you suppose that  the quality of coffee to be 0.4?&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt; &lt;i&gt; solution  &lt;/i&gt; &lt;/summary&gt;
-&lt;p&gt;$$ \underbrace{U(\mbox{breakfast})}&lt;em&gt;{0.2} = \mbox{quality of cake} \times \underbrace{\mbox{quality of coffee}}&lt;/em&gt;{0.4}$$&lt;/p&gt;
+$$ \underbrace{U(\mbox{breakfast})}_{0.2} = \mbox{quality of cake} \times \underbrace{\mbox{quality of coffee}}_{0.4} $$
 &lt;p&gt;So the quality of cake must have been 0.5.&lt;/p&gt;
 &lt;/details&gt;
 &lt;br&gt;
