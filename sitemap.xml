@@ -3,42 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chiaraaina.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chiaraaina.github.io/authors/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chiaraaina.github.io/author/available-upon-request/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chiaraaina.github.io/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,21 +50,6 @@
   <url>
     <loc>https://chiaraaina.github.io/publication/abg/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chiaraaina.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
