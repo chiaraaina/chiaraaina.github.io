@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>job market paper on Chiara Aina</title>
+    <link>https://chiaraaina.github.io/research/</link>
+    <description>Recent content in job market paper on Chiara Aina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://chiaraaina.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailored Stories</title>
+      <link>https://chiaraaina.github.io/research/tailored_stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiaraaina.github.io/research/tailored_stories/</guid>
+      <description>Is it possible to persuade others only by providing interpretations of future events? I study the problem of persuading a boundedly rational agent without tampering with, or even knowing, the piece of information they observe. Persuasion is achieved by providing models, whereby the persuader can communicate ways of interpreting observable signals. The key assumption is that the agent adopts the model that best fits what is observed given her initial beliefs, and takes the action that maximizes their expected utility under the adopted model.</description>
+    </item>
+    
+  </channel>
+</rss>
