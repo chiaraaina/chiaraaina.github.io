@@ -9,28 +9,28 @@
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://chiaraaina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bayesian updating</title>
-      <link>https://chiaraaina.github.io/blog/bayesian_updating/</link>
+      <link>https://chiaraaina.github.io/more/bayesian_updating/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chiaraaina.github.io/blog/bayesian_updating/</guid>
+      <guid>https://chiaraaina.github.io/more/bayesian_updating/</guid>
       <description>a short post about Bayesian updating</description>
     </item>
     
     <item>
       <title>post-truth &amp; co.</title>
-      <link>https://chiaraaina.github.io/blog/post_truth/</link>
+      <link>https://chiaraaina.github.io/more/post_truth/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chiaraaina.github.io/blog/post_truth/</guid>
+      <guid>https://chiaraaina.github.io/more/post_truth/</guid>
       <description>a collection of resources on post-truth</description>
     </item>
     
     <item>
       <title>other</title>
-      <link>https://chiaraaina.github.io/blog/other/</link>
+      <link>https://chiaraaina.github.io/more/other/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chiaraaina.github.io/blog/other/</guid>
+      <guid>https://chiaraaina.github.io/more/other/</guid>
       <description></description>
     </item>
     
@@ -45,20 +45,29 @@
     
     <item>
       <title>Tailored Stories</title>
-      <link>https://chiaraaina.github.io/research/tailored_stories/</link>
+      <link>https://chiaraaina.github.io/jmp/tailored_stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiaraaina.github.io/research/tailored_stories/</guid>
+      <guid>https://chiaraaina.github.io/jmp/tailored_stories/</guid>
       <description>I study the problem of persuading a boundedly rational agent without controlling or knowing the piece of information she observes. Persuasion occurs by providing models whereby the persuader can communicate ways of interpreting observable signals. The key assumption is that the agent adopts the model that best fits what is observed, given her initial beliefs, and takes the action that maximizes her expected utility under the adopted model. I characterize the extent of belief manipulability in this setting and show that the agent may hold inconsistent beliefs across signal realizations &amp;mdash; posterior beliefs across realizations do not average to the prior &amp;mdash; because different signals might trigger the adoption of conflicting models.</description>
     </item>
     
     <item>
       <title>Contigent Belief Updating</title>
-      <link>https://chiaraaina.github.io/publications/contigent/</link>
+      <link>https://chiaraaina.github.io/research/contigent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiaraaina.github.io/publications/contigent/</guid>
+      <guid>https://chiaraaina.github.io/research/contigent/</guid>
       <description>We study the effect of contingent thinking on belief updating. One possible explanation for biased beliefs is that agents distort the underlying data-generating process when updating their beliefs given a new piece of information. Engaging in contingent thinking – jointly assessing beliefs for all possible events without learning the realized one – might affect the agents’ understanding of the data-generating process, resulting in differences in belief updating. With a series of online experiments, we aim to uncover and decompose the effect of contingent thinking on belief distortions into two components: (1) hypothetical thinking (updating on a piece of not yet observed information) and (2) contrast reasoning (comparing multiple contingencies during the updating task).</description>
+    </item>
+    
+    <item>
+      <title>Weighting Competing Narratives</title>
+      <link>https://chiaraaina.github.io/research/weighting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiaraaina.github.io/research/weighting/</guid>
+      <description></description>
     </item>
     
     <item>

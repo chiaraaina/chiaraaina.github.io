@@ -1,5 +1,6 @@
+/* nav body uni email*/
 body {
-  font-family: Nunito,
+  font-family: Segoe UI;
   padding-top: 54px;
   color: #868e96;
   font-size:1rem;
@@ -18,17 +19,20 @@ h2,
 h3,
 h4,
 h5,
+/*boh*/
 h6 {
-  font-family: Nunito,
+  font-family: Segoe UI;
   font-weight: 400;
   color: #4E657E;
   text-align: left;
 }
-
+/* Name */
 h1 {
+  font-family: Manrope;
+  font-weight: 700;
   font-size: 4rem;
   line-height: 5.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 @media (max-width: 768px) {
@@ -38,19 +42,24 @@ h1 {
   }
 }
 
+/*title sections*/
 h2 {
-  font-size: 2.5rem;
+  font-family: Manrope;
+  font-weight: 700;
+  font-size: 2rem;
   padding-bottom: 1rem;
 }
 
+/* title papers*/
 h3 {
+  font-family: Segoe UI;
   font-size: 1.5rem;
 }
 
 .subheading {
   font-weight: 500;
-  font-family: Nunito,
-  font-size: 1.35rem;
+  font-family: Segoe UI;
+  font-size: 1rem;
 }
 
 .list-social-icons a {
@@ -79,10 +88,12 @@ h3 {
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 600;
+  font-family: Manrope;
+  font-weight: 700;
   text-transform: lowercase;
   color: #fff;
 }
+
 
 @media (max-width: 991px) {
   .img-profile-mobile {
@@ -94,6 +105,8 @@ h3 {
 
 @media (min-width: 992px) {
   #sideNav {
+    font-family: Manrope;
+    font-weight: 700;
     text-align: center;
     position: fixed;
     top: 0;
@@ -103,11 +116,15 @@ h3 {
     width: 20rem;
     height: 100vh;
   }
+  
   #sideNav .navbar-brand {
     display: flex;
     margin: auto auto 0;
     padding: 0.5rem;
   }
+  
+  
+  
   #sideNav .navbar-nav .nav-item .nav-link {
     font-size: 20px;
   }
@@ -184,6 +201,8 @@ li a:hover, a:focus, a:active {
   color: #D2DBE8 !important;
 }
 
+
+
 a1 {
   color: #7A436D;
 }
@@ -196,6 +215,25 @@ li a1:hover, a1:focus, a1:active {
   color: #D2DBE8 !important;
 }
 
+
+
+a.two {
+  color: #868e96;
+  
+}
+
+a.two:hover, a.two:focus, a.two:active {
+  color: #758FAA;
+}
+
+li a.two:hover, a.two:focus, a:active {
+  color: #D2DBE8 !important;
+
+}
+
+
+
+
 h2 a {
   color: #7A436D !important;
 }
@@ -203,6 +241,15 @@ h2 a {
 h2 a:hover, a:focus, a:active {
   color: #c686ae !important;
 }
+
+span.d-block {
+  font-family: Manrope;
+  font-weight: 700;
+}
+
+
+
+
 
 .list-social-icons {
   padding-top: 1rem;
@@ -245,6 +292,8 @@ h2 a:hover, a:focus, a:active {
   background-color: #495057;
   text-decoration: none;
 }
+
+
 
 .featured-img {
   display: block;
@@ -363,9 +412,6 @@ h2 a:hover, a:focus, a:active {
 .resume-item {
   margin-bottom: 1rem !important;
 }
-
-
-
 
 
 
