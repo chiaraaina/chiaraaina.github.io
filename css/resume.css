@@ -1,6 +1,6 @@
 /* nav body uni email*/
 body {
-  font-family: Segoe UI;
+  font-family: Open Sans;
   padding-top: 54px;
   color: #868e96;
   font-size:1rem;
@@ -21,7 +21,7 @@ h4,
 h5,
 /*boh*/
 h6 {
-  font-family: Segoe UI;
+  font-family: Open Sans;
   font-weight: 400;
   color: #4E657E;
   text-align: left;
@@ -52,13 +52,13 @@ h2 {
 
 /* title papers*/
 h3 {
-  font-family: Segoe UI;
+  font-family: Open Sans;
   font-size: 1.5rem;
 }
 
 .subheading {
   font-weight: 500;
-  font-family: Segoe UI;
+  font-family: Open Sans;
   font-size: 1rem;
 }
 
