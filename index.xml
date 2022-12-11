@@ -67,7 +67,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chiaraaina.github.io/research/weighting/</guid>
-      <description>This project aims to understand how we update beliefs in the presence of competing narratives. It is common to be in situations where we are uncertain about how the data we observe was generated; different competing narratives could explain the data. How do people learn in these settings? Do they select only one narrative to update beliefs, or do they form posteriors that place non-zero weights on all narratives? Selecting only one narrative leads to more extreme beliefs, while weighting different narratives allows for more nuanced conclusions.</description>
+      <description>This project aims to understand how we update beliefs in the presence of competing narratives. It is common to be in situations where we are uncertain about how the data we observe was generated: different competing narratives could explain the data. How do people learn in these settings? Do they select only one narrative to update beliefs, or do they form posteriors that place non-zero weights on all narratives? Selecting only one narrative leads to more extreme beliefs, while weighting different narratives allows for more nuanced conclusions.</description>
     </item>
     
     <item>
