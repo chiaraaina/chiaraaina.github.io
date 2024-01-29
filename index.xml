@@ -49,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chiaraaina.github.io/research/tailored_stories/</guid>
-      <description>I study the problem of persuading a boundedly rational agent without controlling or knowing the piece of information she observes. Persuasion occurs by providing models whereby the persuader can communicate ways of interpreting observable signals. The key assumption is that the agent adopts the model that best fits what is observed, given her initial beliefs, and takes the action that maximizes her expected utility under the adopted model. I characterize the extent of belief manipulability in this setting and show that the agent may hold inconsistent beliefs across signal realizations &amp;mdash; posterior beliefs across realizations do not average to the prior &amp;mdash; because each signal may trigger the adoption of a different model.</description>
+      <description>To what extent is it possible to manipulate beliefs by providing interpretations of unknown events? I characterize the feasible posteriors across signals when the agent is exposed to a set of models to interpret observable signals and adopts the model that best fits what is observed. Because each signal could trigger the adoption of a different model, posteriors across signal realizations might not average to the prior. The scope of persuasion is large, even for a persuader who does not control or know the signal the agent observes.</description>
     </item>
     
     <item>
@@ -68,6 +68,15 @@
       
       <guid>https://chiaraaina.github.io/research/weighting/</guid>
       <description>This project aims to understand how we update beliefs in the presence of competing narratives. It is common to be in situations where we are uncertain about how the data we observe was generated: different competing narratives could explain the data. How do people learn in these settings? Do they select only one narrative to update beliefs, or do they form posteriors that place non-zero weights on all narratives? Selecting only one narrative leads to more extreme beliefs, while weighting different narratives allows for more nuanced conclusions.</description>
+    </item>
+    
+    <item>
+      <title>Competing in Tailores Stories</title>
+      <link>https://chiaraaina.github.io/research/competing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiaraaina.github.io/research/competing/</guid>
+      <description>We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&amp;rsquo; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved</description>
     </item>
     
     <item>
