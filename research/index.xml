@@ -26,12 +26,12 @@
     </item>
     
     <item>
-      <title>Weighting Competing Narratives</title>
+      <title>Weighting Competing Models</title>
       <link>https://chiaraaina.github.io/research/weighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chiaraaina.github.io/research/weighting/</guid>
-      <description>This project aims to understand how we update beliefs in the presence of competing narratives. It is common to be in situations where we are uncertain about how the data we observe was generated: different competing narratives could explain the data. How do people learn in these settings? Do they select only one narrative to update beliefs, or do they form posteriors that place non-zero weights on all narratives? Selecting only one narrative leads to more extreme beliefs, while weighting different narratives allows for more nuanced conclusions.</description>
+      <description>This project aims to understand how we update beliefs in the presence of competing models. It is common to be in situations where different models could explain the data. How do people learn from data in these situations? Do they select only one model to update beliefs, or do they form posteriors by weighting the predictions of the competing models? Our experimental design allows us to isolate the weights subjects place on different models and to compare them with the theoretical predictions.</description>
     </item>
     
     <item>
