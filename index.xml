@@ -4,94 +4,72 @@
     <title>home on Chiara Aina</title>
     <link>https://chiaraaina.github.io/</link>
     <description>Recent content in home on Chiara Aina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://chiaraaina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://chiaraaina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bayesian updating</title>
       <link>https://chiaraaina.github.io/more/bayesian_updating/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/more/bayesian_updating/</guid>
       <description>a short post about Bayesian updating</description>
     </item>
-    
     <item>
       <title>post-truth &amp; co.</title>
       <link>https://chiaraaina.github.io/more/post_truth/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/more/post_truth/</guid>
       <description>a collection of resources on post-truth</description>
     </item>
-    
     <item>
       <title>other</title>
       <link>https://chiaraaina.github.io/more/other/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/more/other/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Frustration and Anger in the Ultimatum game: An Experiment</title>
       <link>https://chiaraaina.github.io/publications/frustration_anger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/publications/frustration_anger/</guid>
-      <description>Is it possible to persuade others only by providing interpretations of future events? I study the general problem of manipulating a boundedly rational agent by controlling her interpretation of signals she is about to receive. Persuasion arises because the agent updates her beliefs and takes an action based on the narrative she finds most plausible given her prior beliefs. Leveraging this, not only is the persuader able to strategically manipulate the agent to maximize his expected utility, but he can also induce the agent to hold non Bayes-plausible beliefs across signal realizations.</description>
+      <description>&lt;p&gt;Is it possible to persuade others only by providing interpretations of future events? I study the general problem of manipulating a boundedly rational agent by controlling her interpretation of signals she is about to receive. Persuasion arises because the agent updates her beliefs and takes an action based on the narrative she finds most plausible given her prior beliefs. Leveraging this, not only is the persuader able to strategically manipulate the agent to maximize his expected utility, but he can also induce the agent to hold non Bayes-plausible beliefs across signal realizations. Allowing for multiple stories to be communicated before the signal realizes, I propose a disciplined relaxation of the Bayes-plausibility constraint. This paper seeks to provide insights on the mechanism behind incoherent perceptions of the observed facts and the impact of persuasion via storytelling. I illustrate the model with applications in politics, finance, nudging policies, and self-control task.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tailored Stories</title>
       <link>https://chiaraaina.github.io/research/tailored_stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/research/tailored_stories/</guid>
-      <description>To what extent is it possible to manipulate beliefs by providing interpretations of unknown events? I characterize the feasible posteriors across signals when the agent is exposed to a set of models to interpret observable signals and adopts the model that best fits what is observed. Because each signal could trigger the adoption of a different model, posteriors across signal realizations might not average to the prior. The scope of persuasion is large, even for a persuader who does not control or know the signal the agent observes.</description>
+      <description>&lt;p&gt;To what extent is it possible to manipulate beliefs by providing interpretations of unknown events? I characterize the feasible posteriors across signals when the agent is exposed to a set of models to interpret observable signals and adopts the model that best fits what is observed. Because each signal could trigger the adoption of a different model, posteriors across signal realizations might not average to the prior. The scope of persuasion is large, even for a persuader who does not control or know the signal the agent observes. I apply this framework to political polarization, finance, lobbying, and self-persuasion.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contingent Belief Updating</title>
       <link>https://chiaraaina.github.io/research/contingent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/research/contingent/</guid>
-      <description>We study the impact of contingent thinking on belief updating. Engaging in contingent thinking calls for both processing hypothetical information and contrasting multiple contingencies during the belief-updating process. Our experimental findings show that contingent thinking leads to significant deviations from Bayesian updating. These deviations arise from the diminished perceived informativeness of hypothetical signals and the challenges posed by asymmetric signals, where comparing contingencies becomes more difficult. These results have implications for contingent planning, information acquisition, and information design.</description>
+      <description>&lt;p&gt;We study the impact of contingent thinking on belief updating. Engaging in contingent thinking calls for both processing hypothetical information and contrasting multiple contingencies during the belief-updating process. Our experimental findings show that contingent thinking leads to significant deviations from Bayesian updating. These deviations arise from the diminished perceived informativeness of hypothetical signals and the challenges posed by asymmetric signals, where comparing contingencies becomes more difficult. These results have implications for contingent planning, information acquisition, and information design.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Weighting Competing Models</title>
       <link>https://chiaraaina.github.io/research/weighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/research/weighting/</guid>
-      <description>This project aims to understand how we update beliefs in the presence of competing models. It is common to be in situations where different models could explain the data. How do people learn from data in these situations? Do they select only one model to update beliefs, or do they form posteriors by weighting the predictions of the competing models? Our experimental design allows us to isolate the weights subjects place on different models and to compare them with the theoretical predictions.</description>
+      <description>&lt;p&gt;We study belief updating in the presence of competing data-generating processes, or models, that could explain observed data. Using a theory-driven experiment, we identify the weights individuals assign to different models. We find that the most prevalent updating rule assigns full weight to the model that best fits the data, reflecting overinference about the models. While some participants assign positive weights to multiple models&amp;mdash;consistent with Bayesian updating&amp;mdash;they often do so in a biased manner, reflecting underinference about the models. We also find that individuals consistently apply these distinct updating rules across updating tasks. Finally, we show that biases in model weighting often lead participants to become more certain about a state regardless of the observed data, violating a core property of Bayesian updating. These findings offer an empirical basis for the theoretical literature that formalizes narratives as models.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Competing in Tailores Stories</title>
+      <title>Competing in Tailored Stories</title>
       <link>https://chiaraaina.github.io/research/competing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/research/competing/</guid>
-      <description>We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&amp;rsquo; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved</description>
+      <description>&lt;p&gt;We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&amp;rsquo; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Search Results</title>
       <link>https://chiaraaina.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://chiaraaina.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;&#xA;&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;&#xA;&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;&#xA;&lt;p&gt;This implementation uses Fusejs, jquery and mark.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;&#xA;&lt;p&gt;Search  depends on additional output content type of JSON in config.toml&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[outputs]&#xA;  home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;searching-additional-fileds&#34;&gt;Searching additional fileds&lt;/h2&gt;&#xA;&lt;p&gt;To search additional fields defined in front matter, you must add it in 2 places.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
