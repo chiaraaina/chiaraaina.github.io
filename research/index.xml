@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Chiara Aina</title>
-    <link>https://chiaraaina.github.io/research/</link>
+    <link>http://localhost:4321/research/</link>
     <description>Recent content in research on Chiara Aina</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chiaraaina.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tailored Stories</title>
-      <link>https://chiaraaina.github.io/research/tailored_stories/</link>
+      <link>http://localhost:4321/research/tailored_stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/research/tailored_stories/</guid>
+      <guid>http://localhost:4321/research/tailored_stories/</guid>
       <description>&lt;p&gt;To what extent is it possible to manipulate beliefs by providing interpretations of unknown events? I characterize the feasible posteriors across signals when the agent is exposed to a set of models to interpret observable signals and adopts the model that best fits what is observed. Because each signal could trigger the adoption of a different model, posteriors across signal realizations might not average to the prior. The scope of persuasion is large, even for a persuader who does not control or know the signal the agent observes. I apply this framework to political polarization, finance, lobbying, and self-persuasion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contingent Belief Updating</title>
-      <link>https://chiaraaina.github.io/research/contingent/</link>
+      <link>http://localhost:4321/research/contingent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/research/contingent/</guid>
+      <guid>http://localhost:4321/research/contingent/</guid>
       <description>&lt;p&gt;We study the impact of contingent thinking on belief updating. Engaging in contingent thinking calls for both processing hypothetical information and contrasting multiple contingencies during the belief-updating process. Our experimental findings show that contingent thinking leads to significant deviations from Bayesian updating. These deviations arise from the diminished perceived informativeness of hypothetical signals and the challenges posed by asymmetric signals, where comparing contingencies becomes more difficult. These results have implications for contingent planning, information acquisition, and information design.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weighting Competing Models</title>
-      <link>https://chiaraaina.github.io/research/weighting/</link>
+      <link>http://localhost:4321/research/weighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/research/weighting/</guid>
+      <guid>http://localhost:4321/research/weighting/</guid>
       <description>&lt;p&gt;We study belief updating in the presence of competing data-generating processes, or models, that could explain observed data. Using a theory-driven experiment, we identify the weights individuals assign to different models. We find that the most prevalent updating rule assigns full weight to the model that best fits the data, reflecting overinference about the models. While some participants assign positive weights to multiple models&amp;mdash;consistent with Bayesian updating&amp;mdash;they often do so in a biased manner, reflecting underinference about the models. We also find that individuals consistently apply these distinct updating rules across updating tasks. Finally, we show that biases in model weighting often lead participants to become more certain about a state regardless of the observed data, violating a core property of Bayesian updating. These findings offer an empirical basis for the theoretical literature that formalizes narratives as models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Competing in Tailored Stories</title>
-      <link>https://chiaraaina.github.io/research/competing/</link>
+      <link>http://localhost:4321/research/competing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chiaraaina.github.io/research/competing/</guid>
+      <guid>http://localhost:4321/research/competing/</guid>
       <description>&lt;p&gt;We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&amp;rsquo; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved&lt;/p&gt;</description>
     </item>
   </channel>
