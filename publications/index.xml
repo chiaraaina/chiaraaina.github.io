@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publications on Chiara Aina</title>
-    <link>http://localhost:4321/publications/</link>
+    <link>https://chiaraaina.github.io/publications/</link>
     <description>Recent content in publications on Chiara Aina</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://chiaraaina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frustration and Anger in the Ultimatum game: An Experiment</title>
-      <link>http://localhost:4321/publications/frustration_anger/</link>
+      <link>https://chiaraaina.github.io/publications/frustration_anger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/frustration_anger/</guid>
-      <description>&lt;p&gt;Is it possible to persuade others only by providing interpretations of future events? I study the general problem of manipulating a boundedly rational agent by controlling her interpretation of signals she is about to receive. Persuasion arises because the agent updates her beliefs and takes an action based on the narrative she finds most plausible given her prior beliefs. Leveraging this, not only is the persuader able to strategically manipulate the agent to maximize his expected utility, but he can also induce the agent to hold non Bayes-plausible beliefs across signal realizations. Allowing for multiple stories to be communicated before the signal realizes, I propose a disciplined relaxation of the Bayes-plausibility constraint. This paper seeks to provide insights on the mechanism behind incoherent perceptions of the observed facts and the impact of persuasion via storytelling. I illustrate the model with applications in politics, finance, nudging policies, and self-control task.&lt;/p&gt;</description>
+      
+      <guid>https://chiaraaina.github.io/publications/frustration_anger/</guid>
+      <description>Is it possible to persuade others only by providing interpretations of future events? I study the general problem of manipulating a boundedly rational agent by controlling her interpretation of signals she is about to receive. Persuasion arises because the agent updates her beliefs and takes an action based on the narrative she finds most plausible given her prior beliefs. Leveraging this, not only is the persuader able to strategically manipulate the agent to maximize his expected utility, but he can also induce the agent to hold non Bayes-plausible beliefs across signal realizations.</description>
     </item>
+    
   </channel>
 </rss>
