@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chiaraaina.github.io/research/weighting/</guid>
-      <description>We study belief updating in the presence of competing data-generating processes, or models, that could explain observed data. Using a theory-driven experiment, we identify the weights individuals assign to different models. We find that the most prevalent updating rule assigns full weight to the model that best fits the data, reflecting overinference about the models. While some participants assign positive weights to multiple models&amp;mdash;consistent with Bayesian updating&amp;mdash;they often do so in a biased manner, reflecting underinference about the models.</description>
+      <description>We study how individuals update their beliefs in the presence of competing data-generating processes, or models, that could explain observed data. Through experiments, we identify the weights participants assign to different models and find that the most common updating rule gives full weight to the model that best fits the data. While some participants assign positive weights to multiple models&amp;mdash;consistent with Bayesian updating&amp;mdash;they often do so in a systematically biased manner.</description>
     </item>
     
     <item>
