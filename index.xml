@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>post-truth &amp; co.</title>
-      <link>https://chiaraaina.github.io/more/post_truth/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chiaraaina.github.io/more/post_truth/</guid>
-      <description>a collection of resources on post-truth</description>
-    </item>
-    
-    <item>
       <title>other</title>
       <link>https://chiaraaina.github.io/more/other/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
@@ -76,7 +67,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chiaraaina.github.io/research/competing/</guid>
-      <description>We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&amp;rsquo; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved</description>
+      <description>We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders&#39; strategies and the receiver&amp;rsquo;s beliefs vary with respect to the incentives of the parties involved</description>
     </item>
     
     <item>
@@ -90,7 +81,7 @@ No content shown here is rendered, all content is based in the template layouts/
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
   </channel>
