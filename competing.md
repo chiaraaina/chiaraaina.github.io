@@ -9,4 +9,4 @@ featured: true
 image: /img/forest2.jpg
 ---
 
-We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm’s performance differently, driven by different incentives. The senders’ strategies and the receiver’s beliefs vary with respect to the incentives of the parties involved.
+We study the competition among senders in the supply of models. For example, politicians compete to supply voters with models to interpret data on immigration or economic outcomes; brokers might want clients to interpret the same firm's performance differently, driven by different incentives. The senders' strategies and the receiver's beliefs vary with respect to the incentives of the parties involved.
